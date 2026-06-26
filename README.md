@@ -52,3 +52,5 @@ This repository contains a bus service application with separate `backend` and `
 - Ensure the backend API URL is correctly configured in the frontend service layer.
 - Use the provided `env.example` in `backend/` to set up environment variables.
 ![Login page](image.png)
+![Find our bus](1.png)
+![Live Bus Tracking](2.png)
